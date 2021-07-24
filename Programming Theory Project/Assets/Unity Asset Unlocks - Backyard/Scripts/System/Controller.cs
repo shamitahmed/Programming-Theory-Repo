@@ -13,7 +13,13 @@ public class Controller : MonoBehaviour
         
     [Header("Control Settings")]
     public float MouseSensitivity = 100.0f;
-    public float PlayerSpeed = 5.0f;
+    //ENCAPSULATION
+    private float m_PlayerSpeed = 5.0f;
+    public float PlayerSpeed
+    {
+        get { return m_PlayerSpeed;}
+        set { m_PlayerSpeed = value; }
+    }
     public float RunningSpeed = 7.0f;
     public float JumpSpeed = 5.0f;
     
@@ -26,7 +32,7 @@ public class Controller : MonoBehaviour
     public bool LockControl { get; set; }
 
     public bool Grounded => m_Grounded;
-
+    bool loosedGrounding = false;
     CharacterController m_CharacterController;
 
     bool m_Grounded;
@@ -57,9 +63,22 @@ public class Controller : MonoBehaviour
 
     void Update()
     {
+        //ABSTRACTION
+        GroundCheck();
+        DisplayCursor(true);
+        Movement();     
+    }
+
+    public void DisplayCursor(bool display)
+    {
+        m_IsPaused = display;
+        Cursor.lockState = display ? CursorLockMode.None : CursorLockMode.Locked;
+        Cursor.visible = display;
+    }
+    void GroundCheck()
+    {
         bool wasGrounded = m_Grounded;
-        bool loosedGrounding = false;
-        
+    
         if (!m_CharacterController.isGrounded)
         {
             if (m_Grounded)
@@ -77,7 +96,9 @@ public class Controller : MonoBehaviour
             m_GroundedTimer = 0.0f;
             m_Grounded = true;
         }
-
+    }
+    void Movement()
+    {
         Speed = 0;
         Vector3 move = Vector3.zero;
         if (!LockControl)
@@ -89,9 +110,9 @@ public class Controller : MonoBehaviour
                 m_Grounded = false;
                 loosedGrounding = true;
             }
-            
+
             bool running = Input.GetButton("Run");
-            float actualSpeed = running ? RunningSpeed : PlayerSpeed;
+            float actualSpeed = running ? RunningSpeed : m_PlayerSpeed;
 
             if (loosedGrounding)
             {
@@ -104,19 +125,19 @@ public class Controller : MonoBehaviour
                 move.Normalize();
 
             float usedSpeed = m_Grounded ? actualSpeed : m_SpeedAtJump;
-            
+
             move = move * usedSpeed * Time.deltaTime;
-            
+
             move = transform.TransformDirection(move);
             m_CharacterController.Move(move);
-            
+
             // Turn player
-            float turnPlayer =  Input.GetAxis("Mouse X") * MouseSensitivity;
+            float turnPlayer = Input.GetAxis("Mouse X") * MouseSensitivity;
             m_HorizontalAngle = m_HorizontalAngle + turnPlayer;
 
             if (m_HorizontalAngle > 360) m_HorizontalAngle -= 360.0f;
             if (m_HorizontalAngle < 0) m_HorizontalAngle += 360.0f;
-            
+
             Vector3 currentAngles = transform.localEulerAngles;
             currentAngles.y = m_HorizontalAngle;
             transform.localEulerAngles = currentAngles;
@@ -128,8 +149,8 @@ public class Controller : MonoBehaviour
             currentAngles = CameraPosition.transform.localEulerAngles;
             currentAngles.x = m_VerticalAngle;
             CameraPosition.transform.localEulerAngles = currentAngles;
-  
-            Speed = move.magnitude / (PlayerSpeed * Time.deltaTime);
+
+            Speed = move.magnitude / (m_PlayerSpeed * Time.deltaTime);
         }
 
         // Fall down / gravity
@@ -140,12 +161,5 @@ public class Controller : MonoBehaviour
         var flag = m_CharacterController.Move(verticalMove);
         if ((flag & CollisionFlags.Below) != 0)
             m_VerticalSpeed = 0;
-    }
-
-    public void DisplayCursor(bool display)
-    {
-        m_IsPaused = display;
-        Cursor.lockState = display ? CursorLockMode.None : CursorLockMode.Locked;
-        Cursor.visible = display;
     }
 }
