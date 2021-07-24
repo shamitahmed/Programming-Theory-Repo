@@ -1,0 +1,1038 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8132 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\UnityInstallation\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UNITY_PROJECTS/2021/JULY21/Programming-Theory-Repo/Programming Theory Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57052
+Successfully changed project path to: D:/UNITY_PROJECTS/2021/JULY21/Programming-Theory-Repo/Programming Theory Project
+D:/UNITY_PROJECTS/2021/JULY21/Programming-Theory-Repo/Programming Theory Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path G:/UnityInstallation/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITY_PROJECTS/2021/JULY21/Programming-Theory-Repo/Programming Theory Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   
+    VRAM:     4043 MB
+    Driver:   27.21.14.6611
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'G:/UnityInstallation/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'G:/UnityInstallation/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/UnityInstallation/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/UnityInstallation/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: G:/UnityInstallation/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001262 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.846 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.018 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2231 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.3 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2671.
+Total: 2.144800 ms (FindLiveObjects: 0.289900 ms CreateObjectMapping: 0.103900 ms MarkObjects: 1.669600 ms  DeleteObjects: 0.079900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:srp/default-shader: 00a0da0d000000000000000000000000 -> 0000e00a000e0de00000e000e0000000
+========================================================================
+Received Import Request.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab
+  artifactKey: Guid(75d7b8fd75c617b4bb4307edd6be7e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab using Guid(75d7b8fd75c617b4bb4307edd6be7e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb25c72065afedea754e6c15471f360') in 0.033308 seconds
+  Import took 0.042002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Scenes/ExampleScene.unity
+  artifactKey: Guid(c009543939534954d9c81d74bb28f5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Scenes/ExampleScene.unity using Guid(c009543939534954d9c81d74bb28f5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e71ed7895650b688e4bcb4f5e6e95a') in 0.021868 seconds
+  Import took 0.028890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard
+  artifactKey: Guid(7babdc45049db374385a2c90a11aa313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard using Guid(7babdc45049db374385a2c90a11aa313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214eda7624b12c9d2a172bb3e34f3424') in 0.008088 seconds
+  Import took 0.011809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/BackyardEnvironment.prefab
+  artifactKey: Guid(71fc23a5321ff3041ab799a7641bc170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/BackyardEnvironment.prefab using Guid(71fc23a5321ff3041ab799a7641bc170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8558e619536d6fe7ef63b1891b9b8916') in 0.995186 seconds
+  Import took 1.000718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Scenes
+  artifactKey: Guid(820296f1d2451574a94006669665606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Scenes using Guid(820296f1d2451574a94006669665606c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395b0ca60080717a86c624e977129aa4') in 0.007754 seconds
+  Import took 0.012088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 18.857065 seconds
+  Import took 18.864038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.488200 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Bar_72in_BY001.fbx
+  artifactKey: Guid(dfdb096020185ef4f8541f9e3e73911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Bar_72in_BY001.fbx using Guid(dfdb096020185ef4f8541f9e3e73911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e1602ad9600ada8d688a1e588df694') in 0.366848 seconds
+  Import took 0.372552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_34in_BY001.prefab
+  artifactKey: Guid(8d921d965a0240d4f88f5660fcf9f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_34in_BY001.prefab using Guid(8d921d965a0240d4f88f5660fcf9f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21abb95ace57073c9c0f454351f9bd9') in 0.030957 seconds
+  Import took 0.036309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/CoffeeTable_48in_BY001.prefab
+  artifactKey: Guid(3017a300061e0614bb6b5e2db02ae7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/CoffeeTable_48in_BY001.prefab using Guid(3017a300061e0614bb6b5e2db02ae7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aed37e6b179630042631adf680db4b6') in 0.025971 seconds
+  Import took 0.031184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_6ft_BY001.fbx
+  artifactKey: Guid(8770d1f0de7905f48bd41aa1769d85ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_6ft_BY001.fbx using Guid(8770d1f0de7905f48bd41aa1769d85ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9656dec02108d628f99033c3dbeb4eff') in 0.023707 seconds
+  Import took 0.028718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_2ft_BY001.fbx
+  artifactKey: Guid(86912ec05db87a64b952d4d863bcaf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_2ft_BY001.fbx using Guid(86912ec05db87a64b952d4d863bcaf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c7711db85b2bcf409aa336e94d7e66') in 0.026208 seconds
+  Import took 0.030694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Couch_Patio_67in_BY001.prefab
+  artifactKey: Guid(ac0234e040255524fa51d7550a386666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Couch_Patio_67in_BY001.prefab using Guid(ac0234e040255524fa51d7550a386666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24a6547839d3ef167ac63e6cd2dc5c2') in 0.019232 seconds
+  Import took 0.023946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Chair_34in_BY001.fbx
+  artifactKey: Guid(9be7587cbe2d7bf48a8f4baf79ec0d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Chair_34in_BY001.fbx using Guid(9be7587cbe2d7bf48a8f4baf79ec0d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0616f657494a2d3c6ac175327b02edd5') in 0.026234 seconds
+  Import took 0.030323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Adirondack_36in_BY001.prefab
+  artifactKey: Guid(bea4a4fbff7ecaa42a8368839e98dd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Adirondack_36in_BY001.prefab using Guid(bea4a4fbff7ecaa42a8368839e98dd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca580492c2aaaec8422d13b1a4d9f34') in 0.018132 seconds
+  Import took 0.022815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Chair_Patio_34in_BY001.fbx
+  artifactKey: Guid(ab61084aca18ff942a67494ccb321b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Chair_Patio_34in_BY001.fbx using Guid(ab61084aca18ff942a67494ccb321b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac02c169e8202e1d874f4ec18b0acd4') in 0.029866 seconds
+  Import took 0.033835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_2ft_BY001.prefab
+  artifactKey: Guid(8ddd8c558b1a5e9408bf114362304e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_2ft_BY001.prefab using Guid(8ddd8c558b1a5e9408bf114362304e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb2dcad1baab0a6c6896c9115cab140') in 0.019370 seconds
+  Import took 0.023335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_3ft_BY001.prefab
+  artifactKey: Guid(48b3a252aee696846a047d88216a9294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_3ft_BY001.prefab using Guid(48b3a252aee696846a047d88216a9294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793b718343e9c317e5ea1cf9e9f56cab') in 0.015605 seconds
+  Import took 0.019543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Patio_34in_BY001.prefab
+  artifactKey: Guid(3bbf1eb0356a7fc4bb12e2e2aff17bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Patio_34in_BY001.prefab using Guid(3bbf1eb0356a7fc4bb12e2e2aff17bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3eaafa130b8f724f71ab229e5f0e8e') in 0.016092 seconds
+  Import took 0.021359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Chair_Patio_34in_BY002.fbx
+  artifactKey: Guid(222330ee07ea132438f59d540d06482e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Chair_Patio_34in_BY002.fbx using Guid(222330ee07ea132438f59d540d06482e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0449cd38c475a48fe812d0a518ea0ae9') in 0.034517 seconds
+  Import took 0.038508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Couch_Patio_67in_BY001.fbx
+  artifactKey: Guid(c35fe1a3241445048bd74afbf91e86c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Couch_Patio_67in_BY001.fbx using Guid(c35fe1a3241445048bd74afbf91e86c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a55825d5666e44f6801fe8a3c2e5424') in 0.042867 seconds
+  Import took 0.046460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Patio_34in_BY002.prefab
+  artifactKey: Guid(b68cb06f098ea4e4ea0765b96f605803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Chair_Patio_34in_BY002.prefab using Guid(b68cb06f098ea4e4ea0765b96f605803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9fbad0827b03c591468bf52e1d0129') in 0.016598 seconds
+  Import took 0.020466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Bar_72in_BY001.prefab
+  artifactKey: Guid(a2e9a7443737dae42ac0ad35bfd68a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Bar_72in_BY001.prefab using Guid(a2e9a7443737dae42ac0ad35bfd68a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a049ec12fa7fd946a569acf6e8860e06') in 0.020145 seconds
+  Import took 0.023931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_8ft_BY001.fbx
+  artifactKey: Guid(460c398d26c1fba49b05af3505263e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_8ft_BY001.fbx using Guid(460c398d26c1fba49b05af3505263e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfabffbaa3547d16351cacf1a2d215c') in 0.020650 seconds
+  Import took 0.024588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_6ft_BY001.prefab
+  artifactKey: Guid(4263aa52d6bca844ebaaa71504b52023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_6ft_BY001.prefab using Guid(4263aa52d6bca844ebaaa71504b52023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90a6d45f9ad5d22c56e4f01b5776585') in 0.015783 seconds
+  Import took 0.020353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Farmhouse_BY001.fbx
+  artifactKey: Guid(2a5cac33845122842b5e610a72c118b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Farmhouse_BY001.fbx using Guid(2a5cac33845122842b5e610a72c118b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a5eb81a69d13a8f4d6467d602e1680') in 0.021609 seconds
+  Import took 0.025419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/CoffeeTable_48in_BY001.fbx
+  artifactKey: Guid(27951f062805422409edb0e05718e7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/CoffeeTable_48in_BY001.fbx using Guid(27951f062805422409edb0e05718e7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f1db23596c8cbfdd38d9d16f3eb425') in 0.020332 seconds
+  Import took 0.024092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Farmhouse_BY001.prefab
+  artifactKey: Guid(fae20370eef40cb4bbe3c191799c082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Farmhouse_BY001.prefab using Guid(fae20370eef40cb4bbe3c191799c082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab87ee28d18f571a8269c887ef99f6c') in 0.014902 seconds
+  Import took 0.018791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_3ft_BY001.fbx
+  artifactKey: Guid(45b3f62a330c6e7479c20fb8e9548d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Fence_DogEar_3ft_BY001.fbx using Guid(45b3f62a330c6e7479c20fb8e9548d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b1caf6f93753d4f12a07a195b8dd9b') in 0.022277 seconds
+  Import took 0.026930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_8ft_BY001.prefab
+  artifactKey: Guid(fe8a65ee85ee58d4f88156542e3040f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_8ft_BY001.prefab using Guid(fe8a65ee85ee58d4f88156542e3040f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7662cf501f8c7a5fa9ae0a0191126a') in 0.014384 seconds
+  Import took 0.018951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Models/Chair_Adirondack_36in_BY001.fbx
+  artifactKey: Guid(84567d479d2043646a30fe47b1bfb794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Models/Chair_Adirondack_36in_BY001.fbx using Guid(84567d479d2043646a30fe47b1bfb794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b060ffb21264eda9e45ca53e57cc640d') in 0.019481 seconds
+  Import took 0.023717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.627761 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_Gate_48in_BY001.prefab
+  artifactKey: Guid(ad3b9e1a9eea5b84090075abe86e7353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Fence_DogEar_Gate_48in_BY001.prefab using Guid(ad3b9e1a9eea5b84090075abe86e7353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ddd2486eeb49bbcf345e9f35cba465') in 0.018262 seconds
+  Import took 0.026291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/FirePit_42in_BY001.prefab
+  artifactKey: Guid(a49b6676483bc104ab272cbab23f5247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/FirePit_42in_BY001.prefab using Guid(a49b6676483bc104ab272cbab23f5247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8ae5e3270ed020b0449f4862569cfe') in 0.017617 seconds
+  Import took 0.023494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/FirePit_32in_BY001.prefab
+  artifactKey: Guid(e99199c67a86f99428096311aefd2130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/FirePit_32in_BY001.prefab using Guid(e99199c67a86f99428096311aefd2130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02545dc5bb086d15a7945ad9a5cda0d2') in 0.013160 seconds
+  Import took 0.019681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003711 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY001.prefab
+  artifactKey: Guid(332ac4862cf10f14d807d61068a9a3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY001.prefab using Guid(332ac4862cf10f14d807d61068a9a3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177616f99eeb5ce190ff8d15e5133656') in 0.023966 seconds
+  Import took 0.030464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.211267 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY002.prefab
+  artifactKey: Guid(9db660db52666c940a3f1c47437682d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY002.prefab using Guid(9db660db52666c940a3f1c47437682d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210e7baf66a2b638958e572674182daa') in 0.024974 seconds
+  Import took 0.030676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY003.prefab
+  artifactKey: Guid(a2f0508f553971e488acd8441505493d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY003.prefab using Guid(a2f0508f553971e488acd8441505493d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abb0f9331a504ef15e0bd4b1ea0e733') in 0.021308 seconds
+  Import took 0.027325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY004.prefab
+  artifactKey: Guid(e1c50083f78486946a0703d942b10cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_3in_BY004.prefab using Guid(e1c50083f78486946a0703d942b10cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35508bb3ffa66e1bf4b81a59b5b5a118') in 0.032574 seconds
+  Import took 0.038293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_4in_BY002.prefab
+  artifactKey: Guid(010df05ec10185c46a5338be2f6529d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_4in_BY002.prefab using Guid(010df05ec10185c46a5338be2f6529d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ebe2255fbf9c2863b0a491faf2c1c8b') in 0.019914 seconds
+  Import took 0.024303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_4in_BY001.prefab
+  artifactKey: Guid(10e340fb8059e514ea7ee93359c8ceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Flagstone_4in_BY001.prefab using Guid(10e340fb8059e514ea7ee93359c8ceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e75259045c441bdfbb8f1466cdc0063') in 0.018426 seconds
+  Import took 0.023345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Grill_54in_BY001.prefab
+  artifactKey: Guid(5190fbab6823c1644a54e9d5022d3dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Grill_54in_BY001.prefab using Guid(5190fbab6823c1644a54e9d5022d3dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42beece7984a989f3a4fdef9baed686') in 0.021275 seconds
+  Import took 0.027555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.148578 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Loveseat_Patio_49in_BY001.prefab
+  artifactKey: Guid(69161f3b61beb204992b6ebf9a41802f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Loveseat_Patio_49in_BY001.prefab using Guid(69161f3b61beb204992b6ebf9a41802f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb427b9d3fae7a8c1f82c4eff05e5dfc') in 0.023712 seconds
+  Import took 0.030142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Playset_Slide_BY001.prefab
+  artifactKey: Guid(b4bcda5a493d7f34d9a0ee7834fbbdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Playset_Slide_BY001.prefab using Guid(b4bcda5a493d7f34d9a0ee7834fbbdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d29250bfb67838d8d751d472aa55c6') in 0.026318 seconds
+  Import took 0.032606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Rockwall_21ft_BY001.prefab
+  artifactKey: Guid(f4604e6f150d1174989502d2cd4140aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Rockwall_21ft_BY001.prefab using Guid(f4604e6f150d1174989502d2cd4140aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f52fed705ca893325ead934eefaafa') in 0.026636 seconds
+  Import took 0.031029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Playset_Swings_BY001.prefab
+  artifactKey: Guid(a72cf0710dd49574390a0deed0a40383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Playset_Swings_BY001.prefab using Guid(a72cf0710dd49574390a0deed0a40383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '134923e6ed1582d461c5537162ef91dc') in 0.010056 seconds
+  Import took 0.013651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/PicnicTable_6ft_BY001.prefab
+  artifactKey: Guid(c642b45e0cff2b943a977f6cbce21a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/PicnicTable_6ft_BY001.prefab using Guid(c642b45e0cff2b943a977f6cbce21a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa96ef8598b948f98236017ddc284ef') in 0.015649 seconds
+  Import took 0.021157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197013 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Table_30in_BY001.prefab
+  artifactKey: Guid(c49f51d30c69c8d4c931d22727685437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Table_30in_BY001.prefab using Guid(c49f51d30c69c8d4c931d22727685437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0561a64594fd71de6a8344c97c3983de') in 0.022554 seconds
+  Import took 0.037112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002543 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Table_30in_BY001.prefab
+  artifactKey: Guid(c49f51d30c69c8d4c931d22727685437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Table_30in_BY001.prefab using Guid(c49f51d30c69c8d4c931d22727685437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0561a64594fd71de6a8344c97c3983de') in 0.011343 seconds
+  Import took 0.019028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Table_PatioDining_67in_BY001.prefab
+  artifactKey: Guid(8c1287baab1e2c94e93413efe0ea0a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Table_PatioDining_67in_BY001.prefab using Guid(8c1287baab1e2c94e93413efe0ea0a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f31b5c96117e40157d271c29e8a871') in 0.026301 seconds
+  Import took 0.030854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Umbrella_9ft_BY001.prefab
+  artifactKey: Guid(a2d4fce2696307c49bb0d0b0e39007e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Umbrella_9ft_BY001.prefab using Guid(a2d4fce2696307c49bb0d0b0e39007e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2fc70de6e94edd042fb98450ee2eb5') in 0.020495 seconds
+  Import took 0.025409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Table_PatioDining_67in_BY001.prefab
+  artifactKey: Guid(8c1287baab1e2c94e93413efe0ea0a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Table_PatioDining_67in_BY001.prefab using Guid(8c1287baab1e2c94e93413efe0ea0a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f31b5c96117e40157d271c29e8a871') in 0.014738 seconds
+  Import took 0.021199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Tree_30ft_BY001.prefab
+  artifactKey: Guid(086a7f85a162826419325a5b9ce8fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Tree_30ft_BY001.prefab using Guid(086a7f85a162826419325a5b9ce8fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348052992a4f848ab6c6fea1a428c18d') in 0.019904 seconds
+  Import took 0.023492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Prefab/Umbrella_7ft_BY001.prefab
+  artifactKey: Guid(3fdf3e7354b87fb4fabef2bf02e53367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Prefab/Umbrella_7ft_BY001.prefab using Guid(3fdf3e7354b87fb4fabef2bf02e53367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc2bcd9107536bbe24ef7ef980d4c1e') in 0.022328 seconds
+  Import took 0.026421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 392.006076 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08cd9ffd2db6ba13d7af7ee78c1d554d') in 0.012512 seconds
+  Import took 0.020207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.164712 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 0.013240 seconds
+  Import took 0.019266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013751 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 0.007145 seconds
+  Import took 0.020892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015091 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 0.007075 seconds
+  Import took 0.016256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011661 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 0.008820 seconds
+  Import took 0.014204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008875 seconds.
+  path: Assets/Unity Asset Unlocks - Backyard/Character.prefab
+  artifactKey: Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Asset Unlocks - Backyard/Character.prefab using Guid(6ca000ead671ebe449deb210e0a19be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce78250 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff74ce8d222 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff74ce58c02 (Unity) ResolveArtifactV2
+0x00007ff74ce4f9a1 (Unity) ProduceArtifactV2
+0x00007ff74cda355e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff74cd88b18 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74ce78619 (Unity) ImportToObjects
+0x00007ff74ce77729 (Unity) ImportAsset
+0x00007ff74cdd98b8 (Unity) AssetImportWorker::Import
+0x00007ff74ce2d8af (Unity) <lambda_e7e5f5e49556456463706cfa5dd72d0a>::operator()
+0x00007ff74ced06e2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff74ced2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74ced5fce (Unity) asio::io_service::run
+0x00007ff74ce5967b (Unity) RunAssetImportWorkerClientV2
+0x00007ff74ce596d0 (Unity) RunAssetImporterV2
+0x00007ff74c34b2a6 (Unity) Application::InitializeProject
+0x00007ff74ccce482 (Unity) WinMain
+0x00007ff74eb567b6 (Unity) __scrt_common_main_seh
+0x00007ffe45b37034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe46202651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000), Assets/Unity Asset Unlocks - Backyard/Character.prefab from editor
+Resuming Guid(6ca000ead671ebe449deb210e0a19be8) Importer(-1,00000000000000000000000000000000) -> e780e02824a1550de74ddc5588f6f77c 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'c75deca361945223404515035f1718f8') in 0.008993 seconds
+  Import took 0.017242 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.8 MB.
+System memory in use after: 56.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2743.
+Total: 5.217700 ms (FindLiveObjects: 0.283300 ms CreateObjectMapping: 0.132300 ms MarkObjects: 4.735800 ms  DeleteObjects: 0.064400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002730 seconds.
+Begin MonoManager ReloadAssembly
+The file 'MemoryStream' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+
+Fatal Error! The file 'MemoryStream' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\UNITY_PROJECTS\2021\JULY21\Programming-Theory-Repo\Programming Theory Project;G:\UnityInstallation\2020.3.7f1\Editor;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Shamit Ahmed'
+OS-Version: 10.0.0
+G:\UnityInstallation\2020.3.7f1\Editor\Unity.exe:Unity.exe (00007FF749AC0000), size: 134955008 (result: 0), SymType: 'PDB', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\Unity_x64.pdb', fileVersion: 2020.3.7.38898
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE461B0000), size: 2052096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.19041.1110
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE45B20000), size: 774144 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.19041.1023
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE43A10000), size: 2920448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.19041.1110
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFE43E30000), size: 1437696 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 10.0.19041.844
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFE43D30000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFE44220000), size: 1703936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.19041.906
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFE438F0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.19041.1110
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFE45DC0000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.19041.746
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFE43F90000), size: 1093632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.19041.1110
+G:\UnityInstallation\2020.3.7f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FFDEE820000), size: 8974336 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\libfbxsdk.dll', fileVersion: 2020.0.0.0
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFE44180000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFE45280000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 10.0.19041.1052
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFE45330000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFE45C90000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.19041.906
+G:\UnityInstallation\2020.3.7f1\Editor\optix.6.0.0.dll:optix.6.0.0.dll (00007FFE36200000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\optix.6.0.0.dll', fileVersion: 6.0.0.0
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFE45070000), size: 1220608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.19041.1081
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFE453D0000), size: 7598080 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFE443C0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFE44B50000), size: 1220608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.19041.746
+C:\Windows\System32\combase.dll:combase.dll (00007FFE44D10000), size: 3493888 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.19041.1081
+G:\UnityInstallation\2020.3.7f1\Editor\OpenImageDenoise.dll:OpenImageDenoise.dll (00007FFDD0D60000), size: 43806720 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\OpenImageDenoise.dll'
+G:\UnityInstallation\2020.3.7f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FFE0D500000), size: 1306624 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\umbraoptimizer64.dll'
+G:\UnityInstallation\2020.3.7f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6414336 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\FreeImage.dll', fileVersion: 3.18.0.0
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFE45DF0000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\WLDAP32.dll:WLDAP32.dll (00007FFE45D30000), size: 352256 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WLDAP32.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\Normaliz.dll:Normaliz.dll (00007FFE44C80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Normaliz.dll', fileVersion: 10.0.19041.546
+G:\UnityInstallation\2020.3.7f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FFE0D370000), size: 1609728 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\ispc_texcomp.dll'
+G:\UnityInstallation\2020.3.7f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FFE3F4F0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\WinPixEventRuntime.dll', fileVersion: 1.0.1812.6001
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE0D050000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.19041.1081
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE36540000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.19041.1081
+G:\UnityInstallation\2020.3.7f1\Editor\tbb.dll:tbb.dll (00007FFE21500000), size: 413696 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\tbb.dll', fileVersion: 2017.0.2016.1004
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFE335F0000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.29.30038.0
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFE28B30000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP140.dll', fileVersion: 14.29.30038.0
+C:\Windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FFE1E730000), size: 679936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP120.dll', fileVersion: 12.0.21005.1
+C:\Windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FFE179D0000), size: 978944 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\Windows\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFE43230000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFE30720000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140_1.dll', fileVersion: 14.29.30038.0
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFE45D90000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFE446E0000), size: 4624384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.19041.844
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFE42CE0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.19041.546
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFE43CE0000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FFE440A0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFE45EF0000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.19041.985
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFE39D50000), size: 1089536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.19041.1110
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FFE43920000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WINTRUST.dll', fileVersion: 10.0.19041.1110
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFE36770000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.19041.546
+G:\UnityInstallation\2020.3.7f1\Editor\RadeonImageFilters.dll:RadeonImageFilters.dll (00007FFDF1B20000), size: 2535424 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\RadeonImageFilters.dll', fileVersion: 1.5.1.0
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFE421E0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFE3F0F0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.19041.546
+G:\UnityInstallation\2020.3.7f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FFDEDF90000), size: 8978432 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\SketchUpAPI.dll', fileVersion: 19.0.753.0
+C:\Windows\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFE37130000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WSOCK32.dll', fileVersion: 10.0.19041.1
+G:\UnityInstallation\2020.3.7f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FFE21370000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\SketchUpCommonPreferences.dll', fileVersion: 19.0.753.20342
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FFE351E0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Secur32.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFE437B0000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SSPICLI.DLL', fileVersion: 10.0.19041.906
+G:\UnityInstallation\2020.3.7f1\Editor\OpenRL.dll:OpenRL.dll (000002772AB40000), size: 12779520 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\OpenRL.dll', fileVersion: 1.5.0.2907
+G:\UnityInstallation\2020.3.7f1\Editor\embree.dll:embree.dll (00007FFDEC700000), size: 16711680 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\embree.dll', fileVersion: 2.14.0.0
+C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (0000000073F60000), size: 860160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCR100.dll', fileVersion: 10.0.40219.325
+C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (0000000074040000), size: 622592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP100.dll', fileVersion: 10.0.40219.325
+C:\Windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FFE42FF0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.DLL', fileVersion: 10.0.19041.546
+G:\UnityInstallation\2020.3.7f1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000002772B790000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\OpenRL_pthread.dll', fileVersion: 2.9.0.0
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFE434E0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSASN1.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFE41840000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFE43980000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.19041.1023
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFE41380000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.19041.1081
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFE45BE0000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 10.0.19041.1023
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFE41A40000), size: 7933952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\windows.storage.dll', fileVersion: 10.0.19041.1081
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFE43360000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Wldp.dll', fileVersion: 10.0.19041.662
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFE43830000), size: 126976 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 10.0.19041.844
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFE44630000), size: 692224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\System32\netprofm.dll:netprofm.dll (00007FFE3F1D0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\netprofm.dll', fileVersion: 10.0.19041.906
+C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FFE3DCA0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\npmproxy.dll', fileVersion: 10.0.19041.906
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFE45B10000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFE3D0B0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFE3E230000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFE42D20000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFE32C00000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 10.0.19041.1081
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFE3C600000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFE3F690000), size: 2506752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE42220000), size: 999424 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.19041.964
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7d91b2ed40558a26\nvldumdx.dll:nvldumdx.dll (00007FFE398B0000), size: 1069056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7d91b2ed40558a26\nvldumdx.dll', fileVersion: 27.21.14.6611
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFE3DCB0000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cryptnet.dll', fileVersion: 10.0.19041.906
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FFE44C90000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\imagehlp.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFE43240000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFE42990000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 10.0.19041.1052
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7d91b2ed40558a26\nvwgf2umx.dll:nvwgf2umx.dll (00007FFE04940000), size: 74567680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7d91b2ed40558a26\nvwgf2umx.dll', fileVersion: 27.21.14.6611
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FFE007A0000), size: 2875392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap64.dll', fileVersion: 3.22.0.32
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFE42620000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntmarta.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FFE39E60000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxcore.dll', fileVersion: 10.0.19041.546
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFE209D0000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 10.0.19041.1081
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFE371B0000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.19041.1081
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFE1F780000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 10.0.19041.1081
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFE1F900000), size: 1093632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FFE1F310000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\amsi.dll', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFE437F0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2106.6-0\MpOav.dll:MpOav.dll (00007FFE1F290000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2106.6-0\MpOav.dll', fileVersion: 4.18.2106.6
+G:\UnityInstallation\2020.3.7f1\Editor\cudart64_90.dll:cudart64_90.dll (00007FFDEDA80000), size: 397312 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\cudart64_90.dll', fileVersion: 6.14.11.9000
+C:\Windows\SYSTEM32\opencl.dll:opencl.dll (00007FFDED910000), size: 1462272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\opencl.dll', fileVersion: 3.0.1.0
+G:\UnityInstallation\2020.3.7f1\Editor\radeonrays.dll:radeonrays.dll (00007FFDE9FA0000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\radeonrays.dll'
+G:\UnityInstallation\2020.3.7f1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFDE9830000), size: 7790592 (result: 0), SymType: 'PDB', PDB: 'G:\UnityInstallation\2020.3.7f1\Editor\mono-2.0-bdwgc.pdb'
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFE45E60000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 10.0.19041.546
+C:\ProgramData\Microsoft\VisualStudio\Setup\x64\Microsoft.VisualStudio.Setup.Configuration.Native.dll:Microsoft.VisualStudio.Setup.Configuration.Native.dll (00007FFE145D0000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\Microsoft\VisualStudio\Setup\x64\Microsoft.VisualStudio.Setup.Configuration.Native.dll', fileVersion: 2.7.3111.17308
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFE3F510000), size: 1007616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.19041.1023
+C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll:comctl32.dll (00007FFE28C00000), size: 2727936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll', fileVersion: 6.10.19041.1110
+C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFE3D0D0000), size: 1785856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WindowsCodecs.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FFE166B0000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\thumbcache.dll', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\policymanager.dll:policymanager.dll (00007FFE3E650000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\policymanager.dll', fileVersion: 10.0.19041.1023
+C:\Windows\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FFE42A20000), size: 565248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcp110_win.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFE29330000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 10.0.19041.867
+C:\Windows\System32\MrmCoreR.dll:MrmCoreR.dll (00007FFE38230000), size: 1003520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FFE30960000), size: 2818048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.19041.1081
+C:\Windows\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FFE35F10000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\Windows\System32\bcp47mrm.dll:bcp47mrm.dll (00007FFE39D20000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFE37FD0000), size: 1314816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FFE3DE30000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\TextInputFramework.dll:TextInputFramework.dll (00007FFE37ED0000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1081
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FFE37D70000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFE40490000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1081
+C:\Windows\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFE3E7A0000), size: 2101248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FFE40F00000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFE40B60000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1110_none_91a01826cc8bca4c\gdiplus.dll:gdiplus.dll (00007FFE1FF30000), size: 1740800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1110
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFE444B0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1081
+C:\Windows\SYSTEM32\edputil.dll:edputil.dll (00007FFE16680000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FFE1C680000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFE43A44ED9 (KERNELBASE) RaiseException
+0x00007FF74C1F21FD (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF74C1F314A (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF74DDC207E (Unity) DebugStringToFilePostprocessedStacktrace
+0x00007FF74DDC162F (Unity) DebugStringToFile
+0x00007FF74AFDDD2E (Unity) CachedReader::OutOfBoundsError
+0x00007FF74AFE2E04 (Unity) CachedReader::UpdateReadCache
+0x00007FF749D307C3 (Unity) TransferPPtr<StreamedBinaryRead>
+0x00007FF74B67D6DB (Unity) TransferField_NonArray<StreamedBinaryRead,Converter_UnityEngineObject>
+0x00007FF74B6A2C32 (Unity) Transfer_UnityEngineObject<StreamedBinaryRead,0>
+0x00007FF749EC50F6 (Unity) ExecuteSerializationCommands<ConfigSettingsRead>
+0x00007FF74B6A1172 (Unity) Transfer_ManagedObject<StreamedBinaryWrite,0>
+0x00007FF74B13DFC6 (Unity) ExecuteSerializationCommands<SafeBinaryRead>
+0x00007FF74B144E3E (Unity) TransferScriptingObject<StreamedBinaryRead,0>
+0x00007FF74B1602EC (Unity) SerializableManagedRefTransfer::TransferBinaryInstanceOnly
+0x00007FF74B140228 (Unity) SerializableManagedRefTransfer::RestoreBackupImpl<SerializableManagedRefBackupGenerator>
+0x00007FF74B1400CB (Unity) SerializableManagedRefTransfer::RestoreBackup<SerializableManagedRefBackupGenerator>
+0x00007FF74B6C81CD (Unity) SerializableManagedRefsUtilities::RestoreBackups
+0x00007FF74B60BD6D (Unity) MonoManager::EndReloadAssembly
+0x00007FF74B612C69 (Unity) MonoManager::ReloadAssembly
+0x00007FF74C9C3E51 (Unity) LoadDomainAndUserAssemblies
+0x00007FF74C9C42FE (Unity) LoadUserAssemblies
+0x00007FF74CE2CAF8 (Unity) <lambda_32ff519d5c36f44c8f28c9876d6db935>::operator()
+0x00007FF74CED06E2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007FF74CED2840 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007FF74CED5FCE (Unity) asio::io_service::run
+0x00007FF74CE5967B (Unity) RunAssetImportWorkerClientV2
+0x00007FF74CE596D0 (Unity) RunAssetImporterV2
+0x00007FF74C34B2A6 (Unity) Application::InitializeProject
+0x00007FF74CCCE482 (Unity) WinMain
+0x00007FF74EB567B6 (Unity) __scrt_common_main_seh
+0x00007FFE45B37034 (KERNEL32) BaseThreadInitThunk
+0x00007FFE46202651 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/SHAMIT~1/AppData/Local/Temp/Unity/Editor/Crashes
